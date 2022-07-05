@@ -1,2 +1,2 @@
 # Demand_curves
-Demand_Curves_research for Reps
+Home for all demand curves related research
